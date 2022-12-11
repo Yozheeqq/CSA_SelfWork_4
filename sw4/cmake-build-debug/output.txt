@@ -1,0 +1,15 @@
+number of bees = 10
+field size = 10
+created
+created
+created
+created
+created
+created
+created
+created
+created
+created
+Bear coordinates:
+10 10
+Bear was found!

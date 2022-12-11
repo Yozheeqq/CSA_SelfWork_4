@@ -1,0 +1,3 @@
+C:/Users/anvar/Desktop/study/2Grade/Module2/avs/sw4/cmake-build-debug/CMakeFiles/sw4.dir
+C:/Users/anvar/Desktop/study/2Grade/Module2/avs/sw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anvar/Desktop/study/2Grade/Module2/avs/sw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
