@@ -1,0 +1,6 @@
+number of bees = 1
+field size = 1
+created
+Bear coordinates:
+1 1
+Bear was found!
